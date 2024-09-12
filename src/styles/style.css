@@ -1,0 +1,7 @@
+.App {
+    background-color: #DCDCDC; /* Un color oscuro de Bootstrap */
+    color: #000000; /* Color de texto claro para contraste  */
+
+    min-height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+  }
+
